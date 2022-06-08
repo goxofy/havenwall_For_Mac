@@ -1,0 +1,1 @@
+*/5 * * * * /Users/tink/Projects/bing_wallpaper/havenwall.sh >> /tmp/bw.out
